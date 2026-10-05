@@ -38,7 +38,7 @@ Applied Python fundamentals to simple data-analysis examples such as:
 - Sales difference
 - Sales growth percentage
 - Student performance classification
-- Sales performance classification
+- Sales performance classification 
 
 ## Files
 
